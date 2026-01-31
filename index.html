@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vite App</title>
     
-    <!-- Meta Pixel Code -->
+    <!-- Meta Pixel Script (noscript removed from head) -->
     <script>
       !function(f,b,e,v,n,t,s)
       {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -19,13 +19,16 @@
       fbq('init', '2310512142757199');
       fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=2310512142757199&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Meta Pixel Code -->
   </head>
   <body>
     <div id="app"></div>
+    
+    <!-- Move noscript to body - now valid -->
+    <noscript>
+      <img height="1" width="1" style="display:none"
+           src="https://www.facebook.com/tr?id=2310512142757199&ev=PageView&noscript=1"/>
+    </noscript>
+    
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
