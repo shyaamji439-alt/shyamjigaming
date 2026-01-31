@@ -54,7 +54,7 @@ onMounted(() => {
         </h1>
 
         <p class="max-w-3xl">
-          Swamiji Online has become the safest, most exciting, and most valuable
+          Shyaam ji Online has become the safest, most exciting, and most valuable
           legal cricket ID provider in India. Our platform is built for players
           who are looking for trustworthiness and reliability, openness, and
           continuous thrill.
@@ -69,7 +69,7 @@ onMounted(() => {
 
         <p>
           With reliable customer support and exciting features all under one
-          gaming ID, Swamiji Online has become one of the most comprehensive and
+          gaming ID, Shyaam ji Online has become one of the most comprehensive and
           trustworthy Online Cricket ID platforms in India.
         </p>
       </div>

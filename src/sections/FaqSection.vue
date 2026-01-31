@@ -3,33 +3,33 @@ import { ref } from "vue";
 
 const faqs = ref([
   {
-    question: "How do I create my Online Cricket ID at Swamiji Online?",
+    question: "How do I create my Online Cricket ID at Shyaam ji Online?",
     answer:
-      "You can create your Online Cricket ID by contacting Swamiji Online via WhatsApp or their official support channel. The process is quick and secure.",
+      "You can create your Online Cricket ID by contacting Shyaam ji Online via WhatsApp or their official support channel. The process is quick and secure.",
     open: false,
   },
   {
-    question: "Is Swamiji Online a reliable and safe betting site?",
+    question: "Is Shyaam ji Online a reliable and safe betting site?",
     answer:
-      "Yes, Swamiji Online uses secure systems, transparent rules, and provides reliable payouts, making it a trusted platform.",
+      "Yes, Shyaam ji Online uses secure systems, transparent rules, and provides reliable payouts, making it a trusted platform.",
     open: false,
   },
   {
-    question: "How do I create my Online Cricket ID at Swamiji Online?",
+    question: "How do I create my Online Cricket ID at Shyaam ji Online?",
     answer:
       "Simply reach out to the support team, provide basic details, and your ID will be created within minutes.",
     open: false,
   },
   {
-    question: "How do I create my Online Cricket ID at Swamiji Online?",
+    question: "How do I create my Online Cricket ID at Shyaam ji Online?",
     answer:
       "The support team will guide you step by step to ensure a smooth and hassle-free registration.",
     open: false,
   },
   {
-    question: "How do I create my Online Cricket ID at Swamiji Online?",
+    question: "How do I create my Online Cricket ID at Shyaam ji Online?",
     answer:
-      "Contact Swamiji Online support, verify your details, and start playing instantly.",
+      "Contact Shyaam ji Online support, verify your details, and start playing instantly.",
     open: false,
   },
 ]);

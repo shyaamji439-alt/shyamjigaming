@@ -38,16 +38,16 @@ onMounted(() => {
   <section class="max-w-7xl mx-auto px-4 2xl:px-0 py-10">
     <div class="space-y-8">
       <h1 class="font-bold text-[32px] md:text-[36px] lg:text-[40px] leading-tight">
-        What Makes Swamiji Online India’s Legal<br />
+        What Makes Shyaam ji Online India’s Legal<br />
         Cricket Betting Platform
       </h1>
 
-      <button
+      <a href="https://api.whatsapp.com/send/?phone=916262581872&text&type=phone_number&app_absent=0" target="_blank"
         class="mx-auto lg:mx-0 flex items-center gap-2 bg-gradient-to-b from-[#FAEAA8] to-[#B37A1A] px-6 py-3 rounded-xl text-black font-bold text-[18px] hover:scale-105 transition w-fit"
       >
         <i class="pi pi-whatsapp text-xl"></i>
         <span>Get Your ID Now</span>
-      </button>
+      </a>
     </div>
 
     <!-- FEATURES GRID - SAME FADE AS YOUR NEW CODE -->

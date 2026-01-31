@@ -9,23 +9,23 @@ const categories = ["Live & Application Class", "Mocks", "Crash Course"];
 
 const blogs = [
   {
-    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Swamiji Online",
+    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Shyaam ji Online",
     date: "Jun 8, 2026",
     image: "/images/b1.png",
     featured: true,
   },
   {
-    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Swamiji Online",
+    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Shyaam ji Online",
     date: "Jun 8, 2026",
     image: "/images/b2.png",
   },
   {
-    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Swamiji Online",
+    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Shyaam ji Online",
     date: "Jun 8, 2026",
     image: "/images/b3.png",
   },
   {
-    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Swamiji Online",
+    title: "Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider – Shyaam ji Online",
     date: "Jun 8, 2026",
     image: "/images/b4.png",
   },
@@ -86,7 +86,7 @@ onMounted(() => {
 
         <h2 class="text-[22px] font-semibold leading-snug">
           Big Bash League 2026: Play Smart Using a Legal Cricket ID Provider –
-          Swamiji Online
+          Shyaam ji Online
         </h2>
 
         <p class="text-white/50 text-[13px]">Jun 8, 2026</p>

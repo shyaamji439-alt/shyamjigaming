@@ -44,7 +44,7 @@ onMounted(() => {
         <p>
           Join India’s elite online gaming sites for incredible odds and secure
           gaming experiences. If you are a pro bettor or just a beginner,
-          Swamiji Online gaming ID provider will give you the utmost serenity.
+          Shyaam ji Online gaming ID provider will give you the utmost serenity.
           From us you can get your one stop id where you can bet on all live
           sports and world’s all live casino games. We recommend you must
           concentrate on making money while we take care of security, cash-out,

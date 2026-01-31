@@ -46,12 +46,12 @@ onMounted(() => {
         all in one place.
       </p>
 
-      <button
+      <a href="https://api.whatsapp.com/send/?phone=916262581872&text&type=phone_number&app_absent=0" target="_blank"
         class="mx-auto lg:mx-0 flex items-center gap-2 bg-gradient-to-b from-[#FAEAA8] to-[#B37A1A] px-6 py-3 rounded-xl text-black font-bold text-[18px] hover:scale-105 transition w-fit"
       >
         <i class="pi pi-whatsapp text-xl"></i>
         <span>Get Your ID Now</span>
-      </button>
+      </a>
     </div>
   </section>
 </template>

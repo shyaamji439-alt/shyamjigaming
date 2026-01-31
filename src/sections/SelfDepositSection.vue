@@ -95,7 +95,7 @@ onMounted(() => {
         <h1
           class="font-bold text-[32px] md:text-[36px] lg:text-[40px] leading-tight"
         >
-          Trusted Swamiji Online Partners
+          Trusted Shyaam ji Online Partners
         </h1>
         <p class="max-w-3xl">
           We are proud to be working with some of the best online platforms of
@@ -155,7 +155,7 @@ onMounted(() => {
           </h3>
           <p>
             The first step to success in cricket betting is a proper platform.
-            Swamiji Online has built a reputation as a
+            Shyaam ji Online has built a reputation as a
             <span class="font-bold text-[#EEAA36]">
               trusted betting ID provider
             </span>

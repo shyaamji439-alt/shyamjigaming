@@ -27,7 +27,7 @@ onMounted(() => {
     <h1
       class="font-bold text-[32px] md:text-[36px] lg:text-[40px] leading-tight text-center"
     >
-      When Celebrities Play, They Choose Swamiji
+      When Celebrities Play, They Choose Shyaam ji
     </h1>
 
     <div 
