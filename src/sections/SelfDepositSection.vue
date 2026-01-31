@@ -18,10 +18,9 @@ const platforms = [
 
 const marqueeItems = [
   "Cricket Betting",
-  "Live Casino",
-  "Sports Exchange",
-  "Fast Withdrawal",
-  "24x7 Support",
+  "Cricket Betting",
+  "Cricket Betting",
+  "Cricket Betting",
 ];
 
 const headerRef = ref(null);
@@ -122,25 +121,35 @@ onMounted(() => {
           </p>
 
           <div class="space-y-3 text-sm text-gray-300">
-            <div class="flex justify-between border-b border-dashed border-gray-600 pb-1">
+            <div
+              class="flex justify-between border-b border-dashed border-gray-600 pb-1"
+            >
               <span>1 Coin</span>
               <span>₹1</span>
             </div>
-            <div class="flex justify-between border-b border-dashed border-gray-600 pb-1">
+            <div
+              class="flex justify-between border-b border-dashed border-gray-600 pb-1"
+            >
               <span>Minimum ID</span>
               <span>₹100</span>
             </div>
-            <div class="flex justify-between border-b border-dashed border-gray-600 pb-1">
+            <div
+              class="flex justify-between border-b border-dashed border-gray-600 pb-1"
+            >
               <span>Minimum Bet</span>
               <span>₹100</span>
             </div>
           </div>
 
-          <button
-            class="mt-6 bg-gradient-to-b from-[#FAEAA8] to-[#B37A1A] px-4 py-3 rounded-xl text-black font-semibold text-[16px] md:text-[18px] w-full"
-          >
-            Self Deposit Withdrawal
-          </button>
+          <div class="mt-8">
+            <a
+              href="https://api.whatsapp.com/send/?phone=916262581872&text&type=phone_number&app_absent=0"
+              target="_blank"
+              class="mt-6 bg-gradient-to-b from-[#FAEAA8] to-[#B37A1A] px-4 py-3 rounded-xl text-black font-semibold text-[16px] md:text-[18px] w-full"
+            >
+              Self Deposit Withdrawal
+            </a>
+          </div>
         </div>
       </div>
 
